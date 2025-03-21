@@ -14,7 +14,7 @@
 
 [![Renato's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=pavlekovic&show_icons=true&theme=default&rank_icon=github&custom_title=Renato%27s%20GitHub%20Stats#gh-light-mode-only)](https://github.com/pavlekovic/github-readme-stats#gh-light-mode-only)
 
-## 🌐 Connect with me
+## 🌐 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rpavlekovic/)
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=Bcml0f8AAAAJ&hl=en)
 [![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=ResearchGate&logoColor=white)](https://www.researchgate.net/profile/Renato-Pavlekovic)
