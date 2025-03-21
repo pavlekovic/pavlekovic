@@ -1,8 +1,9 @@
 ## Hi there 👋
 
 
-[![Renato's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=pavlekovic&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/pavlekovic/github-readme-stats#gh-dark-mode-only)
-[![Renato's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=pavlekovic&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/pavlekovic/github-readme-stats#gh-light-mode-only)
+[![Renato's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=pavlekovic&show_icons=true&theme=dark&rank_icon=github&custom_title=Renato%27s%20GitHub%20Stats#gh-dark-mode-only)](https://github.com/pavlekovic/github-readme-stats#gh-dark-mode-only)
+
+[![Renato's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=pavlekovic&show_icons=true&theme=default&rank_icon=github&custom_title=Renato%27s%20GitHub%20Stats#gh-light-mode-only)](https://github.com/pavlekovic/github-readme-stats#gh-light-mode-only)
 
 <!--
 **pavlekovic/pavlekovic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
