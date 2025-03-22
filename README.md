@@ -1,9 +1,9 @@
 ## Hi, I'm Renato!
 
 👋 **Data Consultant** based in **London**</br>
-🧠 **Quantitative Researcher** exploring the cognitive aspects of language learning</br>
+🧠 **Quantitative Researcher** interested in language acquisition and NLP</br>
 🎓 BSc in [**Computer Science**](https://uniri.hr/en/home/) & PhD in [**Applied Linguistics**](https://www.essex.ac.uk/)</br>
-📈 Exploring the complexities of **financial markets**</br>
+📈 Intrigued by the complexities of **financial markets**</br>
 📊 Getting overexcited with charts @ [**Visual Capitalist**](https://www.visualcapitalist.com/)</br>
 
 ## 💻 Tech Stack:
